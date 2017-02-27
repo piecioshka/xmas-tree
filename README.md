@@ -6,15 +6,15 @@
 
 ### v1
 
-![](./images/v1.jpg)
+![](./images/v1.png)
 
 ### v2
 
-![](./images/v2.jpg)
+![](./images/v2.png)
 
 ### v3
 
-![](./images/v3.jpg)
+![](./images/v3.png)
 
 ## License
 
