@@ -1,6 +1,6 @@
 # xmas-tree
 
-> Three version of Christmans Tree in Console.
+> Three version of Christmas Tree in Console.
 
 ## Versions
 
