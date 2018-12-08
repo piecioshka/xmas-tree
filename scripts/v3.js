@@ -1,4 +1,4 @@
-function example3(levels) {
+function v3(levels) {
     var star = '*';
 
     for (var i = 1; i <= levels; i++) {
@@ -11,6 +11,6 @@ function example3(levels) {
     console.log('%c  XMas Tree', 'font-size: 20px;');
 }
 
-console.log('%cExample 3:', 'font-size: 25px; color: #f00');
+console.log('%cv3:', 'font-size: 25px; color: #f00');
 
-example3(7);
+v3(7);

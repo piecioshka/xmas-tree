@@ -1,4 +1,4 @@
-function example2(levels) {
+function v2(levels) {
     var star = '*';
     var space = ' ';
 
@@ -20,6 +20,6 @@ function example2(levels) {
     console.log('%c XMas Tree', 'font-size: 20px;');
 }
 
-console.log('%cExample 2:', 'font-size: 25px; color: #f00');
+console.log('%cv2:', 'font-size: 25px; color: #f00');
 
-example2(6);
+v2(6);

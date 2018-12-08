@@ -1,6 +1,10 @@
 # xmas-tree
 
-> Three version of Christmas Tree in Console.
+📒 Three version of Christmas Tree in Console.
+
+## Demo :tada:
+
+<http://piecioshka.github.io/xmas-tree/>
 
 ## Versions
 
