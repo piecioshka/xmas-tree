@@ -2,7 +2,7 @@
 
 📒 Three version of Christmas Tree in Console.
 
-## Demo :tada:
+## Demo 🎉
 
 <http://piecioshka.github.io/xmas-tree/>
 
