@@ -2,9 +2,9 @@
 
 📒 Three version of Christmas Tree in Console.
 
-## Demo 🎉
+## Preview 🎉
 
-<http://piecioshka.github.io/xmas-tree/>
+<https://piecioshka.github.io/xmas-tree/>
 
 ## Versions
 
@@ -22,4 +22,4 @@
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](https://piecioshka.mit-license.org) @ 2016
